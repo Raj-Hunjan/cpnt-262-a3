@@ -8,7 +8,7 @@
 - [Random Fox API](https://randomfox.ca/)
 - Jessica, Fesal, Icah, Christopher, and Jean-Marc helped me with the fox API.
 
-## links: 
+## Links: 
 - Repo: https://github.com/Raj-Hunjan/cpnt-262-a3
 - Page: 
 
