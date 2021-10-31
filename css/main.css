@@ -1,0 +1,44 @@
+body {
+    background-color: ghostwhite
+}
+
+img {
+    max-width: 950px;
+    max-height: 900px;
+    margin: 0 auto;
+    display: block;
+    border: solid;
+    left: 30px;
+}
+
+div, h2 {
+    position: fixed;
+    left: 10px;
+    top: 40vh;
+}
+
+div, p {
+    position: fixed;
+    left: 40px;
+    top: 46vh;
+}
+
+button {
+    position: fixed;
+    left: 51px;
+    top: 51vh;
+    margin: 10px 0;
+    padding: 10px 15px;
+    color: ghostwhite;
+    background-color: #161618;
+    border-style: double;
+    border-radius: 20px;
+    font-size: 24px;
+}
+
+button:hover {
+    color: #f28735;
+    background-color: ghostwhite;
+    border-color: #f28735;
+    cursor: pointer;
+}
